@@ -5,7 +5,7 @@ Inblanding
 
 SL blandar sig i utan att ett tärningsslag gått fel. De påverkade får då äventyrsspoäng baserat på hur farligt eller svår situationen ser ut att bli.
 
-Låt spelaren välja om han vill acceptera situationen och få ÄP eller neka?
+Låt spelaren välja om han vill acceptera situationen och få ÄP eller neka.
 
 Karaktärens nivå	| ÄP
 ---------------------|-----

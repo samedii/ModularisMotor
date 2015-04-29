@@ -7,13 +7,20 @@ Styrkor
 -------
 
 * Tillåter rollpersonerna att agera helt fritt i strid
-* Reglerna får plats på en sida (räcker med tabeller för stresschema, baslinje och väntevärde)
+* Reglerna får plats på en sida (räcker med tabeller för traumaschema, väntevärden, och baslinje)
+
+* Riskhantering
 
 Svagheter
 ---------
 
-* Kräver viss improvisation av spelledaren för att hantera spelarnas kreativitet genom att sätta passande svårighetsgrader
-* Måste komma ihåg att berätta/visa för spelarna vad som påverkar svårighetsgraden på slag under spelets gång
+* Lätt inkonsekventa svårighetsgrader
+	* En effekt av handlingsfriheten
+	* Beror på hur väl spelledaren hanterar det
+	* Kanske inte så viktigt för spelet men det beror på er spelgrupp
+* Oklart för spelarna vad som påverkar svårighetsgraden
+	* Också en effekt av handlingfriheten
+	* Måste komma ihåg att indikera/berätta för spelarna vad som påverkade svårighetsgraden under spelets gång
 
 Varför behöver vi speciella stridsregler?
 -----------------------------------------
@@ -22,7 +29,7 @@ Om strid eller eventuell död inte är en viktig del av ert spel så behövs int
 
 Är det inte fallet så är stridsreglerna bra för att kunna avlasta beslutet om en rollpersons död från spelledaren till regelsystemet.
 
-Tankar bakom stresschemat
+Tankar bakom traumaschemat
 -------------------------
 
 Riskhantering - Låter spelaren fatta beslut om han borde stanna eller ta en risk och ha en chans att göra mer skada.
@@ -31,4 +38,4 @@ Hur skadan slås fram kan verka som att det tar rätt mycket tid men det är beh
 
 ---
 
-[Strid](Strid) · [Ödespoäng](Odespoang)
+[Strid](Strid)

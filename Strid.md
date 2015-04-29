@@ -49,17 +49,17 @@ x         | 2x-1
 
 Det är det första slaget som bestämmer effekten. Att slå för skada tar lite tid vilket spelledaren kan nyttja för att hitta på vad som ska hända.
 
-###Stress
+###Trauma
 
 Fyll i en ruta som tillhör skadan du tog. Om alla på den nivån redan är ifyllda hoppar du ner ett snäpp till en värre skada.
 
-Marginal	| Skadetyp	| Exempel				| Mod. | Stress											| Blank stress
---------------|-------------|----------------------------------|------|-----------------------------------------------------------------------------------|-------------
+Marginal	| Skadetyp	| Exempel				| Mod. | Trauma													| Blankt trauma
+--------------|-------------|----------------------------------|------|-------------------------------------------------------------------------------------------------|--------------
 1		| Lindrig	| Lätt haltning			|	| <input type="checkbox"> <input type="checkbox"><sup>2</sup> <input type="checkbox"><sup>4</sup>	| 1
 3		| Måttlig	| Ordentligt stukad fot		| -½	| <input type="checkbox"> <input type="checkbox"><sup>3</sup> <input type="checkbox"><sup>5</sup>	| 2
-7		| Allvarlig	| Bruten ankel			| -1	| <input type="checkbox"> 									| 3
-13		| Dödlig*	| Väldigt djupt hindrande sår	| -1	| <input type="checkbox"> 									| 4
-20		| Död		| Avhugget ben			| 	| <input type="checkbox"> 									| 5
+7		| Allvarlig	| Bruten ankel			| -1	| <input type="checkbox"> 											| 3
+13		| Dödlig*	| Väldigt djupt hindrande sår	| -1	| <input type="checkbox"> 											| 4
+20		| Död		| Avhugget ben			| 	| <input type="checkbox"> 											| 5
 
 <sup>2 3 4 5</sup>Om rollpersonen har lägre Fysik än detta så är denna ruta alltid ifylld.
 
@@ -67,7 +67,7 @@ Marginal	| Skadetyp	| Exempel				| Mod. | Stress											| Blank stress
 
 Mod. är den föreslagna modifikationen för fortsatta slag (läggs ej ihop).
 
-Exempelvis monster kan såklart ha andra regler. De kan tåla en viss mängd blank stress (lättare att hålla reda på) eller ha ett stressschema med ett annat antal rutor, andra marginaler, etc.
+Förslagsvis använder spelledaren blankt trauma i större strider för att det är lättare att hålla reda på. Kom ihåg att exempelvis monster kan såklart ha andra regler. De kan ha ett annat antal rutor, andra marginaler, etc.
 
 ###Hur dör man av dödlig skada?
 
@@ -102,4 +102,4 @@ Du kan pröva att låta ett par rollpersoner agera samtidigt för att snabba upp
 
 ---
 
-[Scensättning](Scensattning) · [Inblanding](Inblanding) · [Ödespoäng](Odespoang) · [Analys av strid](Strid-Analys)
+[Inblanding](Inblanding) · [Analys av strid](Strid-Analys)

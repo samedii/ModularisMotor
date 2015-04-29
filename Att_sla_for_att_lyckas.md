@@ -38,6 +38,8 @@ Förslag på saker att överväga när du bestämmer svårigheten:
 
 Det är viktigt att berätta för spelarna hur du tänker när du bestämmer svårigheten.
 
+Ibland kan det vara bra att diskutera hur svårt något bör vara med spelarna. Bestäm tonen för spelet tillsamms och skapa prejudikat för framtida händelser.
+
 ---
 
 [Karaktärsegenskaper](Karaktarsegenskaper)
