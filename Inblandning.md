@@ -17,4 +17,4 @@ Legendarisk		| 5-50
 
 ---
 
-[Strid](Strid) · [Scensättning](Scensattning)
+[Strid](Strid)

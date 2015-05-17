@@ -3,7 +3,7 @@ Modularis motor
 Inramning och klippscener
 -------------------------
 
-Dessa ger spelare möjlighet att påverka andra scener både med känsla och rent spelmekaniskt.
+Dessa ger spelare möjlighet att påverka andras scener både med känsla och rent spelmekaniskt.
 
 En inramning eller klippscen ger en spelare möjlighet att slå om en tärning av ett förvalt utfall i den pågående scenen. Man kan inte påverka mer än en gång per scen och möjligheten används inte upp förrän man faktiskt slår om en tärning.
 

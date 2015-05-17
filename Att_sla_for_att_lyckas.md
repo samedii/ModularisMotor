@@ -24,11 +24,10 @@ Utfall	| Effekt	| Alternativ effekt
 2	| Nej, ...	| Misslyckande
 1	| Nej, och...	| Fullkomligt misslyckande
 
-En grad lättare/svårare refereras ofta till som “en tärning lättare/svårare”.
-
-> Be a fan of the characters! - <cite>Dungeon World</cite>
+Låt resultatet stå så länge inte omständigheterna ändrats avsevärt.
 
 Förslag på saker att överväga när du bestämmer svårigheten:
+* Infallsvinkel i fiktionen
 * Handlingens svårighet
 * Rollpersonens kunskapsnivåer i relevanta karaktärsegenskaper
 * Möjlig motståndares relevanta kunskapsnivåer

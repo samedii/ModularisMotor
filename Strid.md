@@ -20,9 +20,9 @@ Vad slår jag mot?
 
 Följ samma tankebanor som i [kärnan](Att_sla_for_att_lyckas) och låt inte reglerna inskränka på rollspelandet.
 
-I en ärlig strid mellan två personer vinner såklart med största sannolikhet den bepansrade skickligare kämpen med vana att slåss i rustning. Det är upp till spelarna att rollspela sig fram till fördelar.
+I en ärlig strid mellan två personer vinner såklart med största sannolikhet den bepansrade skickligare kämpen med vana att slåss i rustning. Det är upp till spelarna att rollspela sig fram till en fördelaktig infallsvinkel i fiktionen.
 
-Exempelvis i en ärlig strid mellan två jämnbördiga kämpar som båda försöker träffa varandra så slår man ett “ganska svårt” slag (en tärning) för att avgöra vad som händer.
+Exempelvis i en ärlig strid mellan två jämnbördiga kämpar som båda försöker träffa varandra så slår man ett "ganska svårt" slag (en tärning) för att avgöra vad som händer.
 
 ### Baslinje/Referens
 
@@ -95,11 +95,14 @@ Hur bra t ex rollpersonens utrustning är kommer att påverka slagens svårighet
 Det är upp till spelledaren att bestämma hur viktig realismen är genom hur man väljer svårigheten för olika handlingar. Exempelvis hur svårt det är att slåss med kniv mot någon med svärd.
 
 ###Konstig skada
-Ibland kan en handling t ex vara lätt att utföra men borde rimligtvis inte göra så mycket skada. Du kan förslagsvis lösa det genom att dra av någon tärning när skadan slås eller bestämma en fix skada.
+
+Om en handling är lätt att utföra men borde rimligtvis inte göra så mycket skada kan man förslagsvis lösa det genom att dra av någon tärning när skadan slås eller bestämma en fix skada.
+
+Det andra fallet är en handling som är svår att utföra men som gör mycket skada om man lyckas (t ex en kraftfull magi). Lägg då på ett visst antal tärningar när man slår skadan eller bestäm ett fixt antal skadetärningar.
 
 ###Flera samtidigt
 Du kan pröva att låta ett par rollpersoner agera samtidigt för att snabba upp strider och tillåta mer koordinerade manövrar.
 
 ---
 
-[Inblanding](Inblanding) · [Analys av strid](Strid-Analys)
+[Inblandning](Inblandning) · [Analys av strid](Strid-Analys)
