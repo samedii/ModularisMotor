@@ -3,17 +3,10 @@ Modularis motor
 Strid
 -----
 
-### Obligatoriska karaktärsegenskaper
-Färdighet 		| Baskostnad
--------------------- | ----------
-Fysik			| 10
-Psyke			| 10
-Stridsteknik (Typ)	| 10
-
 ### Föreslagna karaktärsegenskaper (Fantasy)
 Färdighet 		| Baskostnad
 -------------------- | ----------
-Rustningsteknik (krav för användning av olika rustningar) | 10
+Stridsteknik: Typ (t.ex. "Svärd och sköld") | 10
 
 Vad slår jag mot?
 -----------------
@@ -45,36 +38,56 @@ Tärningar | Väntevärde
 2         | 3
 3         | 7
 4         | 15
-x         | 2x-1
+x         | 2<sup>x</sup>-1
 
 Det är det första slaget som bestämmer effekten. Att slå för skada tar lite tid vilket spelledaren kan nyttja för att hitta på vad som ska hända.
 
-###Trauma
+###Trauma för rollpersoner
 
 Fyll i en ruta som tillhör skadan du tog. Om alla på den nivån redan är ifyllda hoppar du ner ett snäpp till en värre skada.
 
-Marginal	| Skadetyp	| Exempel				| Mod. | Trauma													| Blankt trauma
---------------|-------------|----------------------------------|------|-------------------------------------------------------------------------------------------------|--------------
-1		| Lindrig	| Lätt haltning			|	| <input type="checkbox"> <input type="checkbox"><sup>2</sup> <input type="checkbox"><sup>4</sup>	| 1
-3		| Måttlig	| Ordentligt stukad fot		| -½	| <input type="checkbox"> <input type="checkbox"><sup>3</sup> <input type="checkbox"><sup>5</sup>	| 2
-7		| Allvarlig	| Bruten ankel			| -1	| <input type="checkbox"> 											| 3
-13		| Dödlig*	| Väldigt djupt hindrande sår	| -1	| <input type="checkbox"> 											| 4
-20		| Död		| Avhugget ben			| 	| <input type="checkbox"> 											| 5
-
-<sup>2 3 4 5</sup>Om rollpersonen har lägre Fysik än detta så är denna ruta alltid ifylld.
+Marginal	| Skadetyp	| Exempel				| Mod. | Trauma										| Blankt trauma
+--------------|-------------|----------------------------------|------|----------------------------------------------------------------------------|--------------
+1		| Lindrig	| Lätt haltning			|	| <input type="checkbox"><input type="checkbox"><input type="checkbox">	| 1
+3		| Måttlig	| Ordentligt stukad fot		| -½	| <input type="checkbox"><input type="checkbox">					| 2
+7		| Allvarlig	| Bruten ankel			| -1	| <input type="checkbox"> 								| 3
+13		| Dödlig*	| Väldigt djupt hindrande sår	| -1	| <input type="checkbox"> 								| 4
+20		| Död		| Avhugget ben			| 	| <input type="checkbox"> 								| 5
 
 \*Börjar slå för att överleva.
 
 Mod. är den föreslagna modifikationen för fortsatta slag (läggs ej ihop).
 
-Förslagsvis använder spelledaren blankt trauma i större strider för att det är lättare att hålla reda på. Kom ihåg att exempelvis monster kan såklart ha andra regler. De kan ha ett annat antal rutor, andra marginaler, etc.
-
 ###Hur dör man av dödlig skada?
 
-I samband med att rollpersonen tar en dödlig skada och varje runda därefter slår han mot Psyke minus antalet rundor sedan han tog skadan. När han misslyckas med slaget faller han medvetslös och nästa runda repeteras processen för Fysik. När han misslyckas denna gång är han förbi all räddning.
+I samband med att rollpersonen tar en dödlig skada och varje runda därefter slår han en tärning (ett "ganska svårt" slag). Om han samlar på sig 3 misslyckanden före 3 lyckade slag så dör han. Spelledaren kan låta slagens utfall påverka fiktionen (t.ex. "Nej, och ..." skulle kunna innebära att rollpersonen svimmar) och fiktionen påverka slagets svårighet.
 
 Funderingar för spelledaren
 ---------------------------
+
+Ibland kan det vara användbart att;
+
+* behandla en grupp fiender som en enda entitet med gemensamt trauma
+* använda blankt trauma
+* måla med tunnare eller bredare penslar (anpassa scenernas längd och verkan)
+
+, för att underlätta bokhålleriet eller justera tempot.
+
+Kom ihåg att exempelvis monster kan ha andra traumaregler. T.ex. tåla en annan mängd blankt trauma, ett annat antal allvarliga skador, etc.
+
+###Omständigheterna påverkar
+Hur bra t ex rollpersonens utrustning är kommer att påverka slagens svårighet. T ex kanske en bra rustning gör att motståndarens attack blir en nivå svårare eller ett mästersmitt svärd gör ett anfall lättare. Tänk i sådana banor som mästersmide eller legendariskt smide istället för exempelvis “mitt svärd har +1”.
+
+Det är upp till er spelgrupp att bestämma hur viktig realismen är genom hur man väljer svårigheten för olika handlingar. Exempelvis hur svårt det är att slåss med kniv mot någon med svärd.
+
+###Konstig skada
+
+Om en handling är lätt att utföra men borde rimligtvis inte göra så mycket skada kan man förslagsvis lösa det genom att dra av någon tärning när skadan slås eller bestämma en fix skada.
+
+Det andra fallet är en handling som är svår att utföra men som gör mycket skada om man lyckas (t ex en kraftfull magi). Lägg då på ett visst antal tärningar när man slår skadan eller bestäm ett fixt antal skadetärningar.
+
+###Flera samtidigt
+Du kan pröva att låta ett par rollpersoner agera samtidigt för att snabba upp strider och tillåta mer koordinerade manövrar.
 
 ###Kroppsdelar
 
@@ -88,20 +101,6 @@ Vänster arm	| 3
 Torso		| 4
 Höger ben	| 5
 Vänster ben	| 6
-
-###Omständigheterna påverkar
-Hur bra t ex rollpersonens utrustning är kommer att påverka slagens svårighet. T ex kanske en bra rustning gör att motståndarens attack blir en nivå svårare eller ett mästersmitt svärd gör ett anfall lättare. Tänk i sådana banor som mästersmide eller legendariskt smide istället för exempelvis “mitt svärd har +1”.
-
-Det är upp till spelledaren att bestämma hur viktig realismen är genom hur man väljer svårigheten för olika handlingar. Exempelvis hur svårt det är att slåss med kniv mot någon med svärd.
-
-###Konstig skada
-
-Om en handling är lätt att utföra men borde rimligtvis inte göra så mycket skada kan man förslagsvis lösa det genom att dra av någon tärning när skadan slås eller bestämma en fix skada.
-
-Det andra fallet är en handling som är svår att utföra men som gör mycket skada om man lyckas (t ex en kraftfull magi). Lägg då på ett visst antal tärningar när man slår skadan eller bestäm ett fixt antal skadetärningar.
-
-###Flera samtidigt
-Du kan pröva att låta ett par rollpersoner agera samtidigt för att snabba upp strider och tillåta mer koordinerade manövrar.
 
 ---
 
