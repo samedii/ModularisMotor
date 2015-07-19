@@ -21,9 +21,7 @@ Exempelvis i en ärlig strid mellan två jämnbördiga kämpar som båda försö
 
 Räkna ut skillnaden i antal tärningar mellan rollpersonernas förmågor givet en normal attack och normalt försvar. SL modifierar sedan slaget baserat på omständigheter som ligger utanför en normal attack eller försvar.
 
-Förslagsvis noterar man detta med hela och halva tärningar. T ex en amatör skulle kunna ha +1½ vilket skulle innebära att ett normalt stridsslag är 1 tärning lättare än baslinjen och personen har lättare att få ytterligare en tärning genom att t ex agera smart.
-
-![Alt text](md/baseline.svg "Baslinje/Referens")
+Förslagsvis noterar man detta som antal extra tärningar. T ex en mästare skulle kunna ha +1 vilket skulle innebära att ett normalt stridsslag är 1 tärning lättare än baslinjen.
 
 Hur mycket skada?
 -----------------
